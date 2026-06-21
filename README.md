@@ -1,2 +1,14 @@
 # vipiqy-archive
-HTML page archive and documentation
+
+静态页面保存仓库
+
+这里用于保留自动生成页面的文件记录和基本仓库信息。
+
+## 文件管理
+
+- HTML 文件由发布流程生成
+- README 用于保留基础说明
+
+## 维护说明
+
+页面内容会根据发布任务逐步追加，具体状态以提交记录为准。
